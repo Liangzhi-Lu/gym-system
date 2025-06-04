@@ -1,0 +1,37 @@
+{
+  "admin": {
+    "login": {
+      "title": "Admin Login",
+      "username": "Username",
+      "password": "Password",
+      "submit": "Login",
+      "success": "Login successful",
+      "error": "Invalid username or password",
+      "usernameRequired": "Please enter username",
+      "passwordRequired": "Please enter password"
+    },
+    "dashboard": {
+      "title": "Admin Dashboard",
+      "totalUsers": "Total Users",
+      "members": "Members",
+      "orders": "Orders",
+      "courses": "Courses"
+    },
+    "user": {
+      "title": "User Management",
+      "username": "Username",
+      "email": "Email",
+      "role": "Role",
+      "member": "Member",
+      "actions": "Actions",
+      "edit": "Edit",
+      "delete": "Delete",
+      "add": "Add User",
+      "searchPlaceholder": "Search username/email",
+      "confirmDelete": "Are you sure to delete this user?",
+      "deleteSuccess": "Deleted successfully",
+      "deleteError": "Delete failed",
+      "fetchError": "Failed to fetch user list"
+    }
+  }
+} 
